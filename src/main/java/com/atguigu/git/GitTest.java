@@ -1,8 +1,8 @@
 package com.atguigu.git;
 
 /**
- * @Author: eren
- * @Date: 2022/7/7 - 15:33
+ * @Author : eren
+ * @Date : 2022/7/7 - 15:33
  * @Description:
  */
 public class GitTest {
@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello git2!");
         System.out.println("hello git3!");
         System.out.println("hello git4!");
+        System.out.println("hot-fix test!");
     }
 }
